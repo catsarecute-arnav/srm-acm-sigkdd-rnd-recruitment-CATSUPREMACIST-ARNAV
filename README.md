@@ -1,4 +1,4 @@
-# srm-acm-sigkdd-rnd-recruitment-CATSUPREMACIST-ARNAV
+# Introduction To The Program 
 This file contains a python program that finds whether a given number entered by the user is a Armstrong number. 
 
 An armstrong number or a narcissistic number is a number whose individual digits when raised to the power of the number of digits in the number give the number itself. 
