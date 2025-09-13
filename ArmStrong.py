@@ -1,6 +1,6 @@
 def armstrong():
     try:
-        num=int(input("Enter a number to check if it's an Armstrong number: "))
+        num=int(input("Enter a number: "))
         if num<0:
             print(f"{num} is not an Armstrong number.")
             return
